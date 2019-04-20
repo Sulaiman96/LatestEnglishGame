@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{CA7210BE-9B88-B6CD-B96F-51CFF807FCC0}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/SceneTrigger.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Player/PlayerController.cs" Line="124" Column="37" />
+      <File FileName="Assets/Scripts/Question Controller/GameController.cs" Line="146" Column="26" />
+      <File FileName="Assets/NPCPopulator/Scripts/npcFactory.cs" Line="17" Column="19" />
+      <File FileName="Assets/NPCPopulator/Scripts/npcIndividual.cs" Line="112" Column="1" />
+      <File FileName="Assets/Scripts/Player/CameraController.cs" Line="43" Column="11" />
+      <File FileName="Assets/Scripts/Dialogue/NPCShout.cs" Line="16" Column="6" />
+      <File FileName="Assets/Scripts/Dialogue/Dialogue.cs" Line="33" Column="6" />
+      <File FileName="Assets/Scripts/LevelChanger.cs" Line="21" Column="6" />
+      <File FileName="Assets/Scripts/SceneTrigger.cs" Line="8" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
